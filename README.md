@@ -1,8 +1,11 @@
--  Hey there, I’m @M0rv1n. I'm a human and I like music and games.
-- I am a free time developer, I mostly like to code in C# and Java. (and i am still a beginner :p )
-- I'm still learning new things, web development is one of them.
+-  Hey there, I’m @M0rv1n. I'm a human (probably) and I like music and games.
+- I like to learn new languages. I can speak in c# now and read Java and Python. I somehow know english too.
+- I have worked on several projects, though most of them were just to make my work easier and make me "lazy".
+- I love Japanese culture, and I would definitely want to go there if I get the chance to.
+- I watch animes in my free time, and I am a fan of Re:Zero, Its a masterpiece.
+- I mostly like c# just cuz its kinda easy? I also have a bit experience with front-end web development, though I'm still novice
+- I am in process of learning new things. I dont get much free time due to college now a days..
+- I am open for collaborative projects.
+- I luv cats 
 
-
-You can reach out to me on Discord (I'm mostly active there.)
-
-(Your Name and Weathering with you really made me cry)
+That's it, i guess ?
